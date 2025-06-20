@@ -1,5 +1,5 @@
 const fs = require("fs");
-const filePath = "product.json";
+const filePath = "tasks.json";
 
 // Setting up the program, checks if the Json files exists,
 // if exists, it assign it's value to the variable currentData,
